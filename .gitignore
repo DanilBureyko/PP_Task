@@ -7,5 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 /src/gitignore/.idea/
-/src/resources
-/src/gitignore/target
+/src/resources/
+/src/gitignore/target/
