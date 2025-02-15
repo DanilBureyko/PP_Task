@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="622c24cb-91dc-485f-95cd-529a7e607d54" name="Changes" comment="PP_task 1.01">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jm/task/core/jdbc/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/dao/UserDaoHibernateImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/dao/UserDaoJDBCImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jm/task/core/jdbc/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/classes/jm/task/core/jdbc/util/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/gitignore/target/test-classes/UserServiceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DanilBureyko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KataAcademy/PP_1_1_3-4_JDBC_Hibernate.git&quot;,
+    &quot;accountId&quot;: &quot;96f42771-17d0-4c37-a979-be2e5e4b473a&quot;
+  }
+}</component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="UserServiceTest.saveUser" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2skmqZRVECEuu0A1ypQwyBoWllG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.cleanUsersTable.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.createUsersTable.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.dropUsersTable.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.getAllUsers.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceTest.saveUser.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Kata_Java_learning/PP_Task&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Perforce&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kata_Java_learning\PP_Task\src" />
+      <recent name="D:\Kata_Java_learning\PP_Task\gitignore" />
+      <recent name="D:\Kata_Java_learning\PP_Task" />
+      <recent name="D:\Kata_Java_learning\PP_1_1_3-4_JDBC_Hibernate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceTest">
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.cleanUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="cleanUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.dropUsersTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="dropUsersTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.getAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="getAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.saveUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TaskJDBC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="saveUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest" />
+        <item itemvalue="JUnit.UserServiceTest.cleanUsersTable" />
+        <item itemvalue="JUnit.UserServiceTest.getAllUsers" />
+        <item itemvalue="JUnit.UserServiceTest.saveUser" />
+        <item itemvalue="JUnit.UserServiceTest.dropUsersTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\dbure\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="622c24cb-91dc-485f-95cd-529a7e607d54" name="Changes" comment="" />
+      <created>1739008137511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739008137511</updated>
+      <workItem from="1739008138563" duration="8094000" />
+      <workItem from="1739094169724" duration="4687000" />
+      <workItem from="1739107930710" duration="2936000" />
+      <workItem from="1739188781252" duration="716000" />
+      <workItem from="1739189523789" duration="1205000" />
+      <workItem from="1739190750059" duration="1255000" />
+      <workItem from="1739192494602" duration="236000" />
+      <workItem from="1739192842503" duration="1267000" />
+      <workItem from="1739296033312" duration="872000" />
+      <workItem from="1739367736006" duration="128000" />
+      <workItem from="1739456977866" duration="686000" />
+    </task>
+    <task id="LOCAL-00001" summary="PP_task">
+      <option name="closed" value="true" />
+      <created>1739190956550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739190956550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PP_task">
+      <option name="closed" value="true" />
+      <created>1739191210974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739191210974</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PP_task">
+      <option name="closed" value="true" />
+      <created>1739191773482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739191773482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PP_task">
+      <option name="closed" value="true" />
+      <created>1739192526635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739192526635</updated>
+    </task>
+    <task id="LOCAL-00005" summary="PP_task 1.01">
+      <option name="closed" value="true" />
+      <created>1739193482489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739193482489</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pom fix" />
+    <MESSAGE value="PP_task" />
+    <MESSAGE value="PP_task 1.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="PP_task 1.01" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
